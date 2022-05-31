@@ -1,18 +1,10 @@
-<h1 align="center">  &nbsp; Memories App  </h1>
+<h1 align="center">  &nbsp; post-It  </h1>
 
-  <img src=./client/public/memories-readme.png>
 
 <h1></h1>
 
 > Built with MERN stack (MongoDB, Express, React, and Node).
-> Memories App, where you can post interesting events that happened in your lives
-
-
-
-
-### <h2 align="center">  💫💫💫  &nbsp; [Live Demo](https://hao-memories-mern-app.netlify.app/) 💫💫💫  </h2>
-
-
+> post-It App, where you can post interesting facts,events that happened
 
 ## 📜 &nbsp; Table of contents
 
@@ -31,42 +23,32 @@
 
  Full Stack MERN Application - from start to finish. 
 
- The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
- with real app features like user authentication and social login using Google accounts.
-
-
+ The App is called "post-It" and it is a simple social media app that allows users to post interesting facts,events that happenes.
+ 
 <h1></h1>
 
 
-## 🚩 &nbsp; Main Features
+##  &nbsp; Main Features
 
 
-> This App was made to post user's interesting events that happing in their day to day life
+> This App was made to post user's interesting facts,news,events that happens in day to day life
 
->Users can post their event and like other users posts and comment on them
+>Users can post their event and like other users posts  
 
 
 
 #### Project methodology
 
-- **Login and Logout system**
-  - Every user has to log in with google accounts to post the memories.
-  - Once the user is logged in, the user will able to use all the features of the app.
-  - If the user has not logged in, the user will only be able to view/see  posts from the other users.
-  - That is if the user has not logged in, user will not able to access all the potential features of the app.
-  
 - **Product life cycle**
-  - A user will log in into the app with their Google accounts
-  - A user will post their memories through the form "Creating a Memory".
-  - After posting the memories. memories will appear on the memories section of the app.
-  - From the memories section of the app, all users of the app  will be able to see all the posts posted.  
-  - Any user can like and comment on the posts that are posted on the app.
+  - A user will post their memories through the form "Creating a post".
+  - After posting the post will appear on the post-It section of the app.
+  - From the post-It section of the app, all users of the app  will be able to see all the posts posted.  
+  - Any user can like on the posts that are posted on the app.
   
 
 - **Other facilities**
   - Users can edit their previous posts by click on the post.
   - Users can add tags to their post.
-  - Users can search memories by memories title or tags.
   - Users can delete their respective posts.
 
 <h1> </h1>
@@ -76,8 +58,6 @@
 - To run this project,  locally on your system
 - Fork this repo and run the `git clone <forked repo>` command from your terminal/bash
 - Create a `.env` file in the following  directory and store the following:
-  - On client directory 
-    - REACT_APP_GOOGLE_CLIENT_ID=Insert the valid google client id
   - On server directory   
     - CONNECTION_URL=Insert the correct connection URL for your MongoDB database
   
