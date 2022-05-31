@@ -1,4 +1,4 @@
-<h1 align="center">  &nbsp; post-It  </h1>
+<h1>  post-It  </h1>
 
 
 <h1></h1>
@@ -14,7 +14,6 @@
 - [Demo](#--demo)
 - [Technologies](#--technologies)
 - [Key Concepts](#--key-concepts)
-- [Author](#--author)
 
 
 <h1></h1>
