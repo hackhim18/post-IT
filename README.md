@@ -6,7 +6,7 @@
 > Built with MERN stack (MongoDB, Express, React, and Node).
 > post-It App, where you can post interesting facts,events that happened
 
-## 📜 &nbsp; Table of contents
+## &nbsp; Table of contents
 
 - [Introduction](#--introduction)
 - [Main Features](#--main-features)
@@ -18,7 +18,7 @@
 
 <h1></h1>
 
-## ⭐ &nbsp; Introduction
+## &nbsp; Introduction
 
  Full Stack MERN Application - from start to finish. 
 
@@ -27,7 +27,7 @@
 <h1></h1>
 
 
-##  &nbsp; Main Features
+## &nbsp; Main Features
 
 
 > This App was made to post user's interesting facts,news,events that happens in day to day life
@@ -52,7 +52,7 @@
 
 <h1> </h1>
 
-## 💻 &nbsp; Setup
+## &nbsp; Setup
 
 - To run this project,  locally on your system
 - Fork this repo and run the `git clone <forked repo>` command from your terminal/bash
@@ -83,7 +83,7 @@ $ npm start (for React client side development)
 <h1></h1>
 
 
-## 👨‍💻 &nbsp; Demo
+## &nbsp; Demo
 
 <p align="center">
 <p>Screenshoots of some main features</p>
@@ -103,14 +103,14 @@ $ npm start (for React client side development)
 
 <h1></h1>
 
-## 💡 &nbsp; Key Concepts
+## &nbsp; Key Concepts
 
 - CRUD operations
 - Authentication system
 - Storing user data
 - OOP (Object Oriented Programming)
 
-## 💹 &nbsp; Technologies
+## &nbsp; Technologies
 
 > Project is created with:
 
