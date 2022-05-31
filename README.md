@@ -32,7 +32,7 @@
 
 > This App was made to post user's interesting facts,news,events that happens in day to day life
 
->Users can post their event and like other users posts  
+>Users can like each others posts  
 
 
 
@@ -43,9 +43,6 @@
   - After posting the post will appear on the post-It section of the app.
   - From the post-It section of the app, all users of the app  will be able to see all the posts posted.  
   - Any user can like on the posts that are posted on the app.
-  
-
-- **Other facilities**
   - Users can edit their previous posts by click on the post.
   - Users can add tags to their post.
   - Users can delete their respective posts.
@@ -75,11 +72,6 @@ $ npm start (for React client side development)
 
 - Backend server will be running on http://localhost:5000
 - Frontend server will be running on http://localhost:3000
-
-> For CONNECTION_URL for the backend server, you have to   visit [mongodb atlas](https://www.mongodb.com/cloud/atlas). Here you can create your own collection and can use connect app URL for CONNECTION_URL
-
-> For Google client Id you have to visit [Google developers console](https://console.cloud.google.com/apis/dashboard?pli=1) from here generate your respective client Id 
-
 <h1></h1>
 
 
