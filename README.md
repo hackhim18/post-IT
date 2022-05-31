@@ -93,10 +93,8 @@ $ npm start (for React client side development)
 <p align="center">
   <img src="./app-images/responsive.png" width="200" height="356">
 </p>
- <br/>
  <p align="center">
   <img src = "./app-images/post.png" width="300" height="402"> 
-&nbsp; &nbsp; &nbsp; &nbsp; 
 </p>
 </p>
   
